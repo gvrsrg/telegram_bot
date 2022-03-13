@@ -1,0 +1,1 @@
+stis_bot_token = "5147723435:AAGGPNByUUQg51jkR6956fZWV51ePhpkr1E"
